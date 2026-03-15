@@ -1,0 +1,16 @@
+{
+  "finance": {
+    "api_key": "sk-prod-a8f3d9e2b1c4567890abcdef",
+    "budget": "1000000"
+  },
+  "internal_systems": {
+    "admin_password": "Adm!n2024Secure",
+    "database_url": "postgres://prod-db-cluster.internal:5432"
+  },
+  "payroll": {
+    "salary_table": "Employee compensation data"
+  },
+  "public_marketing": {
+    "campaign_stats": "Opened: 4500, Clicked: 1200"
+  }
+}
